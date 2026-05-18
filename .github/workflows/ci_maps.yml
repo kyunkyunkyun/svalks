@@ -1,7 +1,7 @@
 name: Сборка и Компиляция Карт
 on:
   push:
-    branches: [beta-dev]
+    branches: '*'
     paths:
       - '_maps/**'
   pull_request:
