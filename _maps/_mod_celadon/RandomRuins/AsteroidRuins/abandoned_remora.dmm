@@ -3122,7 +3122,7 @@
 	pixel_x = 10
 	},
 /obj/item/radio/intercom/wideband/directional/south{
-	pixel_x = -6
+	pixel_x = -5
 	},
 /obj/item/gun/ballistic/automatic/assault/hydra/dmr/no_mag{
 	pixel_x = -4;
